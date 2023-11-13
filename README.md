@@ -26,10 +26,6 @@ O objetivo deste projeto é criar uma tela de login que permita aos usuários au
    - A documentação Javadoc foi gerada para fornecer informações sobre o código-fonte e a lógica implementada.
 
 
-## Data de Entrega
-
-A entrega deste projeto está programada para o dia 07/10/2023 às 23:59.
-
 ## Autor
 
 Matheus Jorge da Silva
